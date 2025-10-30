@@ -13,5 +13,5 @@ Saya membuat
 ## 2. Refactor Layout Praktikum 5
 <img width="1920" height="1200" alt="Screenshot 2025-10-30 115531" src="https://github.com/user-attachments/assets/77811ec1-96e2-488e-9c66-f4b82ca9bc07" />
 
-## 3. Buat Halaman Portfolion Sederhana
+## 3. Buat Halaman Portfolio Sederhana
 <img width="1920" height="1200" alt="Screenshot 2025-10-30 120300" src="https://github.com/user-attachments/assets/e05e26ec-a5f2-4d36-90ae-375ab3f3fce0" />
